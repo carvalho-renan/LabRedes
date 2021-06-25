@@ -23,7 +23,7 @@ sudo docker run --rm --network=host --name=monitor labredes2021 python3 monitor.
 
 ### Exemplo
 
-sudo docker run --rm -it --network=host stephanybino/labredesmonitor python3 monitor.py 9091 192.168.1.99 (IpServer)
+sudo docker run --rm -it --network=host stephanybino/labredesmonitor python3 monitor.py 9091 192.168.1.99
 
 Obs: O comando acima deve estar na mesma pasta do seu config.txt (por exemplo, este arquivo está na pasta config deste mesmo repositório).
 
