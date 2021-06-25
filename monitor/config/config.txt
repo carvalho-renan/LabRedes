@@ -1,0 +1,6 @@
+ipHost 127.0.0.1  
+ipAp 127.0.0.1
+ipWeb 127.0.0.1
+ipDns 8.8.8.8
+httpAdress https://www.ifes.edu.br
+domain google.com
